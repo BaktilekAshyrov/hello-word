@@ -1,0 +1,39 @@
+1 zadanie
+s = input()
+l = len(s)
+m = 0
+ind = 0
+count = 0
+for i in range(l):
+    if s[i] != ' ':
+        count += 1
+    else:
+        if count > m:
+            m = count
+            ind = i - count
+        count = 0
+ 
+if count > m:
+    m = count
+    ind = i - count + 1
+ 
+print(s[ind:ind+m])
+//////////////////
+print(max((w.rstrip(',.:;!?') for w in input().split()), key=len))
+////////////////////////
+print(min((w.rstrip(',.:;!?') for w in input().split()), key=len))
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+n=5
+lst = [input(str(i+1) + '-ая:') for i in range(5)]
+maxx = max([len(i) for i in lst])
+[print (i+1, end=' ') for i in range(n) if len(lst[i]) == maxx]
+print()
+///////////////////////////
+2 zadanie
+print(max((w.rstrip(',.:;!?') for w in input().split(';')), key=len))
+5 zadanie
+s = input()
+s = s.split()
+l = len(s)
+print(l)
+
