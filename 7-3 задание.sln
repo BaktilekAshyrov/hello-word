@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "5 laba", "5 laba\5 laba.vbproj", "{E7AF2798-A237-4B62-950D-E1610925DF4C}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "7-3 задание", "7-3 задание\7-3 задание.vbproj", "{2CB7E9DD-4E4C-41BA-B208-27B9F1772684}"
 EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
@@ -15,10 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E7AF2798-A237-4B62-950D-E1610925DF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E7AF2798-A237-4B62-950D-E1610925DF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E7AF2798-A237-4B62-950D-E1610925DF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E7AF2798-A237-4B62-950D-E1610925DF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB7E9DD-4E4C-41BA-B208-27B9F1772684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB7E9DD-4E4C-41BA-B208-27B9F1772684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB7E9DD-4E4C-41BA-B208-27B9F1772684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB7E9DD-4E4C-41BA-B208-27B9F1772684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
